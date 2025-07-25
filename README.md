@@ -149,5 +149,3 @@ MIT License — free for personal and commercial use.
 * [SQLAlchemy](https://www.sqlalchemy.org/)
 * [PassLib](https://passlib.readthedocs.io/)
 * [PyJWT](https://pyjwt.readthedocs.io/)
-
-```

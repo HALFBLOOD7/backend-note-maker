@@ -2,7 +2,7 @@
 
 A full-featured FastAPI backend for managing videos, bookmarks, notes, playlists, and user settings with JWT-based authentication. Built using FastAPI, SQLAlchemy, SQLite, and OAuth2.
 
-**Base URL:** `https://backend-note-maker.onrender.com`
+**Base URL:** [https://backend-note-maker.onrender.com](https://backend-note-maker.onrender.com)
 
 ## 📦 Features
 
